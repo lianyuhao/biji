@@ -1,0 +1,6 @@
+[dbservers]
+mysql01
+
+[webservers]
+web01
+web02
